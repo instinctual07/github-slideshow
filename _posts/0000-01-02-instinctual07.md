@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Flim flam jim jam
+Humanity is doomed
 Use the left arrow to go back!
